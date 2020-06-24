@@ -1,4 +1,5 @@
 /target/
+CLARO.db
 test.db
 entrada_cdrs_test.txt
 entrada_lineas_test.txt
