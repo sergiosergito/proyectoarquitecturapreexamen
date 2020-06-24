@@ -1,1 +1,7 @@
 /target/
+test.db
+entrada_cdrs_test.txt
+entrada_lineas_test.txt
+lineas_register.txt
+tarificaciones_register.txt
+cdrs_register.txt
